@@ -2,11 +2,12 @@
 # -*- codning: utf-8 -*-
 
 #Dane
-AktualnyRok=2019
+AktRok=int(input('Hej, jaki mam teraz roook!?'))
+#AktualnyRok=2019
 PythonRok=1989
 
 #Obliczenia wieku Pythona
-wiekPythona = AktualnyRok - PythonRok
+wiekPythona = AktRok - PythonRok
 
 #Pobieramy dane
 imie = input('Hej, jak się nazywasz?')
