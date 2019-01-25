@@ -3,7 +3,7 @@
 
 op = "t"
 while op == "t":
-    a, b, c = input("Podaj trzy liczby oddzielone spacjami: ").split(" ")
+    a, b, c = input("Podaj trzy liczby oddzielone przecinkami: ").split(",")
 
     print("Wprowadzono liczby:", a, b, c)
     print("\nNajmniejsza:")
@@ -25,4 +25,4 @@ while op == "t":
 print("Koniec.")
 
 
-#tut
+#v2.0
