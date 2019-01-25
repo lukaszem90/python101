@@ -23,3 +23,6 @@ while op == "t":
     op = input("Jeszcze raz (t/n)? ")
 
 print("Koniec.")
+
+
+#tut
